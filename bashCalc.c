@@ -11,7 +11,7 @@ int main()
 	int sumSubtract;
 	int sumModulus;
 
-	printf ("\nbashCalc v0.0.1 is Open Source and is free to distribute or modify\n");
+	printf ("\nbashCalc v0.0.2 is Open Source and is free to distribute or modify\n");
 
 	printf ("\nFirst Number:\n> ");
 	scanf ("%d",&a);

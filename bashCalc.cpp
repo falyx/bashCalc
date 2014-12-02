@@ -13,7 +13,7 @@ int main()
 	int sumSubtract;
 	int sumModulus;
 
-	cout << endl << "bashCalc v0.0.1 is Open Source and is free to distribute or modify" << endl;
+	cout << endl << "bashCalc v0.0.2 is Open Source and is free to distribute or modify" << endl;
 
 	cout << endl << "First Number:" << endl << "> ";
 	cin >> a; cout << endl;
