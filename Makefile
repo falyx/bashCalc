@@ -1,9 +1,12 @@
 c: bashCalc.c
-	gcc bashCalc.c -o bashcalcC
+	@echo "Building C Program..."
+	@gcc bashCalc.c -o bashcalcC
 
 cpp: bashCalc.cpp
-	g++ bashCalc.cpp -o bashcalcCPP
+	@echo "Building C++ Program..."
+	@g++ bashCalc.cpp -o bashcalcCPP
 
 clean:
-	$(RM) bashCalcC
-	$(RM) bashCalcCPP
+	@echo "Removing all compiled files..."
+	@$(RM) bashCalcC
+	@$(RM) bashCalcCPP
