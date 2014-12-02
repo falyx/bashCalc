@@ -28,3 +28,10 @@ make cpp
 ```
 ./bashcalcCPP
 ```
+
+# Cleaning Files
+
+* In your shell, run
+```
+make clean
+```
