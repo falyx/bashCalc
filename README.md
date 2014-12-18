@@ -35,3 +35,5 @@ make cpp
 ```
 make clean
 ```
+
+If you don't add c/cpp/clean when running the Makefile it will compile the C variant.
